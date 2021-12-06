@@ -7,7 +7,7 @@ npm install
 ```
 Ese comando descargará todos los módulos de node necesarios para ejecutar el proyecto.
 
-* Cuando termine de instalar los node_modules, entonces podemos empezar a manipular los datos que seran evaluados en el proyecto. El archivo que contiene la expresión matemática a evaluar es ```expresionNumerica.txt```.
+* Cuando termine de instalar los node_modules, entonces podemos empezar a manipular los datos que seran evaluados en el proyecto. El archivo que contiene la expresión matemática a evaluar es ```arithmeticExpression.txt```.
 
 * Cuando se termine de modificar el archivo con la expresión a evaluar, ejecutamos el comando
 

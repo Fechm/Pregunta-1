@@ -8,4 +8,4 @@ const main = async (path) => {
     console.log(response);
 };
 
-main(__dirname + '/expresionNumerica.txt');
+main(__dirname + '/arithmeticExpression.txt');
